@@ -15,7 +15,7 @@ racial bias analysis to the specific case of protests.
 
 
 ### 3. Research questions
- 1) Is there a relationship betweene the occurence of a racial injsutice protest and the number of atendees of the later with the racial bias in police traffic stops following given protest?
+ 1) Is there a relationship between the occurence of a racial injustice protest and the number of attendees of the latter with the racial bias in police traffic stops following the given protest?
 
 
 
@@ -37,6 +37,9 @@ racial bias analysis to the specific case of protests.
    by E. Pierson et al. (2020). We will use the processed, but not aggregated, version that we know is well documented and cleaned. 
    Furthermore, we will draw our attention in traffic stop records that occurred from 2017 to 2018 in order to merge them with the “Count
    Love” data set.
+   
+3) We use as a second source, a collection of 780 protests organized by the “Black Lives Movement” (Trump et al., 2018) between 2014 and 2015.
+   In addition to protest-specific features, this collection also includes census information. 
 
 ### 5. Methods
 
