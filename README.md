@@ -76,9 +76,11 @@ Individual responsibilities: Each one is responsible to clean code cells and add
 
 Collective responsibilities: We solve critical problems together, if any arise, and we redefine our strategy based on the research questions we wish to answer, we create the short video together.
 
-Aurel Mader: match two data sources, build and analyse regression ... 
-Ludovica: aggregate dataframes, analyse visualization, feature engineering for regression covariates ...
-Theodoros Bitsakis: data wrangling and descriptive statistics for Count Love data set, dataset merging based on date/location, select top three protests ….
+Aurel Mader: match three data sources, build and analyse regression, write abstract, introduction, literature review, methods and conclusion of report.
+
+Ludovica Schaerf: aggregate dataframes for plotting, make and analyse visualization, regression experiments and results in report.
+
+Theodoros Bitsakis: data wrangling and descriptive statistics for Count Love data set, dataset merging based on date/location, select top three protests, dataset description in reoprt.
 
 ### 8. Questions for TAs (optional)
 
