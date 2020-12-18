@@ -15,8 +15,9 @@ racial bias analysis to the specific case of protests.
 
 
 ### 3. Research questions
-  1) Do racial injustice protests have an effect on the racial bias of police in traffic stops?
-  2) If so, can the magnitude of this correlation be estimated? 
+ 1) Is there a relationship betweene the occurence of a racial injsutice protest and the number of atendees of the later with the racial bias in police traffic stops following given protest?
+
+
 
 
 ### 4. Proposed dataset
