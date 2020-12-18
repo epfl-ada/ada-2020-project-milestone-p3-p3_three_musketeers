@@ -1,4 +1,4 @@
-### 1. Title: Police retaliation against racial injustice protests
+### 1. Title: Does the police retaliate against  in reaction to racial injustice protests?
 
 
 ### 2. Abstract:
